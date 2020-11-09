@@ -13,7 +13,4 @@
 
 ### URL:-http://dataservice.accuweather.com/currentconditions/v1/
 =======
-# WeatherApp
 
-
->>>>>>> 0b24588ad85ab360c4160a4568649f0d962baa7c
