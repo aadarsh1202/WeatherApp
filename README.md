@@ -2,7 +2,7 @@
 
 ### When a city is searched,this application returns the weather status of that city.
 
-## APS's:
+## API's:
 
 ![API City_Search](https://img.shields.io/badge/API-City_Search-brightgreen.svg)
 
