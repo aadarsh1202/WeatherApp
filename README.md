@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WeatherApp:-
 
 ### When a city is searched,this application returns the weather status of that city.
